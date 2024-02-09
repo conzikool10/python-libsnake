@@ -14,4 +14,4 @@ from food import *
 ```
 
 # Documentation
-Docs will be written soon, you can find them in the wiki of this repository.
+Go to the Wiki page.
